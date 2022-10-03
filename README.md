@@ -1,4 +1,5 @@
-### Hi there 👋 i'm @Martin Mithi😄
+### Hi there 👋 I'm @Martin Mithi😄
+🌱 I’m currently learning Computer Science alongside Software Engineering
 
 <!--
 **lilmithi/lilmithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
