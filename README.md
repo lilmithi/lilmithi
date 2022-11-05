@@ -1,4 +1,4 @@
-### Hi there 👋 I'm @Martin Mithi😄
+### Hi there 👋 I'm Martin D Mithi⚡
 🌱 I’m currently learning Computer Science alongside Software Engineering
 
 <!--
