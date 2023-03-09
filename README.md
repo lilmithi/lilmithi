@@ -47,4 +47,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lilmithi&theme=tokyonight)](https://git.io/streak-stats)
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilmithi&show_icons=true&theme=tokyonight)
