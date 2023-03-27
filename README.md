@@ -6,17 +6,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/martin-mithi-487a39210">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<!--   <a href="https://www.youtube.com/channel/UCDMqbpr7Z2PwFiFWA1AlFgw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-  <a href="https://twitter.com/lilmithius">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
